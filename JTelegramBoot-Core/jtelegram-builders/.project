@@ -3,6 +3,7 @@
 	<name>jtelegrambot-builders</name>
 	<comment>Project jtelegrambot-builders created by Buildship.</comment>
 	<projects>
+		<project>jtelegrambot-core</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
